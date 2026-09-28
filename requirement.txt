@@ -1,0 +1,2 @@
+• Python: Version 3.8 to 3.12 installed on your system.
+• Streamlit Library: The streamlit package must be installed via Python's package manager (pip).
